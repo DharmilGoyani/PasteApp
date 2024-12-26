@@ -37,7 +37,8 @@ function App() {
 
   return (
     <>
-  <RouterProvider router={router}/>
+      <h2 className='dg-style'>Paste App By DG</h2>
+      <RouterProvider router={router}/>
     </>
   )
 }

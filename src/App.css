@@ -40,3 +40,16 @@
 .read-the-docs {
   color: #888;
 }
+
+.dg-style{
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  border: 2px solid white;
+  text-align: center;
+  border-radius: 20px;
+  margin-bottom: 10px;
+  /* width: 100px; */
+}
